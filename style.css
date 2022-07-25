@@ -1,0 +1,27 @@
+* { margin: 0px;
+padding: 0px;}
+.logo { font-family: 'Nunito', sans-serif;
+    font-family: 'PT Sans', sans-serif;
+font-size: 40px;}
+.hadder { padding: 30px 30px 30px 30px;
+display: flex;
+align-items: center;
+justify-content: space-between;}
+.menuiteam { 
+    text-decoration: none;
+    color: black;
+    font-family: 'Nunito', sans-serif;
+        font-family: 'PT Sans', sans-serif;
+        margin-right: 40px;}
+        .buttom2 { background-color: black;
+        color: white;
+    text-decoration: none;
+padding: 16px 16px;
+font-family: 'Nunito', sans-serif;
+    font-family: 'PT Sans', sans-serif;}
+    .buttom1 { text-decoration: none;
+font-family: 'Nunito', sans-serif;
+    font-family: 'PT Sans', sans-serif;
+color: black;
+margin-right: 40px; }
+       
